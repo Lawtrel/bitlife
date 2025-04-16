@@ -45,10 +45,3 @@ BitLife é um aplicativo para controle de hábitos, desenvolvido com **React Nat
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-Desenvolvido com ❤️ por [Seu Nome].
