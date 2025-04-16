@@ -37,7 +37,10 @@ BitLife é um aplicativo para controle de hábitos, desenvolvido com **React Nat
 
 ## Seção de Fotos
 
-1
+<img src="https://github.com/Lawtrel/bitlife/blob/main/1.png">
+<img src="https://github.com/Lawtrel/bitlife/blob/main/2.png">
+<img src="https://github.com/Lawtrel/bitlife/blob/main/3.png">
+<img src="https://github.com/Lawtrel/bitlife/blob/main/4.png">
 
 ## Contribuição
 
